@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hans Aparicio</h1>
+<h1 align="center">Hi 🖖🏼, I'm Hans Aparicio</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires</h3>
 
 - 🔭 I’m currently working on Super7UI [MineralIQ](https://app.mineraliq.com/mineral/login)
+
+- <a href="https://app.daily.dev/hansaparicio"><img src="https://api.daily.dev/devcards/3b2cf3f6d4454f32add6a981676e5128.png?r=jt6" width="400" alt="Hans Aparicio's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
