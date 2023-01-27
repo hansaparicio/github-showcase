@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖🏼, I'm Hans Aparicio</h1>
-<h3 align="center">A passionate frontend developer from Buenos Aires</h3>
+<h3 align="center">A passionate frontend developer from Bilbao</h3>
 
 - 🔭 I’m currently working on Super7UI [MineralIQ](https://app.mineraliq.com/mineral/login)
 
